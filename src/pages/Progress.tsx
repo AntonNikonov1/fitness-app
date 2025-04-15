@@ -308,5 +308,5 @@ const Progress: React.FC = () => {
     </div>
   );
 };
-
+console.log("");
 export default Progress;
